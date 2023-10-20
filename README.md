@@ -5,7 +5,6 @@
   </a>
   <img src="https://png.pngtree.com/thumb_back/fw800/background/20230612/pngtree-an-empty-library-with-shelves-and-books-image_2894460.jpg"/>
   </h1>
-  <img src="https://github.com/PTA123/Nhom05_QuanLyThuVien_T6_Ca4/blob/main/nhung-anh-gif-pho-bien-nhat-moi-thoi-dai-8.gif"/>
 
 ## 📗GIỚI THIỆU VỀ SẢN PHẨM📗:
 
@@ -19,6 +18,9 @@
 | Vũ Lê Huy           | 21DH110702 | Dev |
 | Trần Bảo Lộc        | 21DH111061 | Product Owner |
 | Trần Ngọc Pháp      | 18DH110740 | Team Lead |
+
+## CÁC GIAO DIỆN WEBSITE QUẢN LÝ THƯ VIỆN:
+## CÁC SẢN PHẨM WEBSITE HIỆN CÓ:
 
 
 
