@@ -34,6 +34,7 @@
 * css
 * javascript
 * https://readme-typing-svg.herokuapp.com/demo/
+* https://www.w3schools.com/
 
 
 
