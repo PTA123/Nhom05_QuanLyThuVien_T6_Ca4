@@ -1,8 +1,8 @@
 ### WEBSITE QUẢN LÝ THƯ VIỆN
 <h1 align="center">
-  <img src="https://png.pngtree.com/thumb_back/fw800/background/20230612/pngtree-an-empty-library-with-shelves-and-books-image_2894460.jpg"/>;
+  <img src="https://png.pngtree.com/thumb_back/fw800/background/20230612/pngtree-an-empty-library-with-shelves-and-books-image_2894460.jpg"/>
   </h1>
-  ![Hình Ảnh Động](https://raw.githubusercontent.com/TenCats/animated-gif/main/animated.gif)
+  <img src="https://github.com/PTA123/Nhom05_QuanLyThuVien_T6_Ca4/blob/main/nhung-anh-gif-pho-bien-nhat-moi-thoi-dai-8.gif"/>
 
 ## 📗GIỚI THIỆU VỀ SẢN PHẨM📗:
 
