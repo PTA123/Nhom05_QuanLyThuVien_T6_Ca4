@@ -32,7 +32,7 @@
 
 ## 🎫CÁC SẢN PHẨM WEBSITE HIỆN CÓ🎫:
 <img src="https://github.com/PTA123/Nhom05_QuanLyThuVien_T6_Ca4/assets/130620317/c6262a83-9f2e-40e0-9d43-477b3f20b2c2"/>
-"/>
+
 <img src="https://github.com/PTA123/Nhom05_QuanLyThuVien_T6_Ca4/assets/130620317/1ecdbb04-3f3a-4bc2-96ff-6b3192f1d7af"/>
 
 
