@@ -38,7 +38,7 @@
 
 ## ⚒ 🔨 🛠 🔧 ⚙ 💻 CÔNG CỤ HỖ TRỢ:
    ![WebDeveloperMycrxnGIF](https://github.com/PTA123/Nhom05_QuanLyThuVien_T6_Ca4/assets/130620317/04787732-9f03-447f-9148-466aed55f89b)
-        ✨HTML       ✨CSS       ✨JAVASCRIPT       ✨PHP
+      ✨HTML       ✨CSS       ✨JAVASCRIPT       ✨PHP
 
 
 🖼  TRUY CẬP QUA CÁC TRANG: 
