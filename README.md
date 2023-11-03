@@ -1,4 +1,4 @@
-<h1>--------------------WEBSITE QUẢN LÝ THƯ VIỆN---------------------</h1>
+<h1 align="center">WEBSITE QUẢN LÝ THƯ VIỆN</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&height=80&text-align=center&size=40&pause=1000&color=512AF7&random=false&width=550&lines=Chào+Mừng+Thầy+Và+Các+Bạn" alt="Typing SVG" /></a>
