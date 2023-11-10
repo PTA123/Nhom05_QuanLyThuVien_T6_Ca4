@@ -19,7 +19,7 @@
 ## 😊 GIỚI THIỆU THÀNH VIÊN 😊:
 | Họ và tên           | Mã sinh viên  | Chức vụ  | 
 | ------------------- | ------------- | -------- |
-| Trần Khánh Huy      | 21DH114410 | Scrum Master  |
+| Trần Khánh Huy      | 21DH114410 | Scrum Master,Dev  |
 | Phan Thiên Ân       | 21DH113467 | Dev |
 | Vũ Lê Huy           | 21DH110702 | Dev |
 | Trần Bảo Lộc        | 21DH111061 | Product Owner |
